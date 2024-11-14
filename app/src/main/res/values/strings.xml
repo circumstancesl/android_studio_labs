@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">LinearLayout</string>
+    <string name="app_name">Logging</string>
+    <string name="btn_image">КНОПКА С КАРТИНКОЙ</string>
 </resources>
